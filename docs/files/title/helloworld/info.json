@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "http://nakamura196.github.io/toyo_images/files/title/helloworld",
+  "height": 447,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 112,
+      "width": 160
+    },
+    {
+      "height": 56,
+      "width": 80
+    },
+    {
+      "height": 28,
+      "width": 40
+    },
+    {
+      "height": 14,
+      "width": 20
+    },
+    {
+      "height": 7,
+      "width": 10
+    },
+    {
+      "height": 3,
+      "width": 5
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 256,
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 256
+    }
+  ],
+  "width": 640
+}
