@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://nakamura196.github.io/toyo_images/files/title/helloworld",
+  "@id": "http://nakamura196.github.io/iiif0/files/title/helloworld",
   "height": 447,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
