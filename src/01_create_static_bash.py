@@ -29,7 +29,7 @@ for i in range(len(files)):
 
     file = files[i]
 
-    opath = file.replace("/original/", "/title/")
+    opath = file.replace("/original/", "/tile/")
     tmp = os.path.split(opath)
     odir = tmp[0]
 

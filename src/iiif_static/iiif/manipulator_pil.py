@@ -12,6 +12,12 @@ import tempfile
 
 from PIL import Image
 
+Image.MAX_IMAGE_PIXELS = 2000000000
+
+# 1000000000
+# 178956970
+# 1360746114
+
 from .error import IIIFError
 from .request import IIIFRequest
 from .manipulator import IIIFManipulator
