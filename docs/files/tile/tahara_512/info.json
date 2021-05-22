@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://nakamura196.github.io/iiif0/files/tile/tahara_512",
+  "@id": "https://nakamura196.github.io/iiif0/files/tile/tahara_512",
   "height": 3000,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",

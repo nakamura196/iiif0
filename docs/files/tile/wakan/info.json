@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://nakamura196.github.io/iiif0/files/tile/wakan",
+  "@id": "https://nakamura196.github.io/iiif0/files/tile/wakan",
   "height": 3000,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",

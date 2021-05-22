@@ -11,7 +11,7 @@ import glob
 
 import yaml
 
-prefix = "http://nakamura196.github.io/iiif0"
+prefix = "https://nakamura196.github.io/iiif0"
 
 dir = "/Users/nakamurasatoru/git/d_dzi/iiif0"
 
