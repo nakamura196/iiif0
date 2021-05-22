@@ -22,7 +22,7 @@ f = open('tmp/convert.sh', 'w')
 writer = csv.writer(f, lineterminator='\n')
 
 
-files = glob.glob(dir+'/docs/files/original/*.jpg', recursive=True)
+files = glob.glob(dir+'/docs/files/original/*', recursive=True)
 
 
 for i in range(len(files)):
