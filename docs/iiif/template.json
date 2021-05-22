@@ -40,7 +40,14 @@
                 }
               }
             }
-          ]
+          ],
+          "thumbnail": {
+            "@id": "https://nakamura196.github.io/iiif0/files/tile/template/full/200,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": null,
+            "height": null
+          }
         }
       ]
     }

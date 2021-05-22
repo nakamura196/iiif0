@@ -1,6 +1,6 @@
 {
-  "label": "template",
-  "@id": "https://nakamura196.github.io/iiif0/iiif/template.json",
+  "label": "たはらかさね耕作絵巻",
+  "@id": "https://nakamura196.github.io/iiif0/iiif/tahara.json",
   "@type": "sc:Manifest",
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "metadata": [],
@@ -14,33 +14,40 @@
     {
       "@type": "sc:Sequence",
       "label": "Current Page Order",
-      "@id": "https://nakamura196.github.io/iiif0/iiif/template/sequence/normal",
+      "@id": "https://nakamura196.github.io/iiif0/iiif/tahara/sequence/normal",
       "canvases": [
         {
           "label": "[1]",
-          "width": 2996,
-          "height": 1848,
+          "width": 76000,
+          "height": 3000,
           "@type": "sc:Canvas",
-          "@id": "https://nakamura196.github.io/iiif0/iiif/template/canvas/p1",
+          "@id": "https://nakamura196.github.io/iiif0/iiif/tahara/canvas/p1",
           "images": [
             {
               "@type": "oa:Annotation",
-              "on": "https://nakamura196.github.io/iiif0/iiif/template/canvas/p1",
+              "on": "https://nakamura196.github.io/iiif0/iiif/tahara/canvas/p1",
               "motivation": "sc:painting",
               "resource": {
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 2996,
-                "height": 1848,
-                "@id": "https://nakamura196.github.io/iiif0/files/tile/template/full/full/0/default.jpg",
+                "width": 76000,
+                "height": 3000,
+                "@id": "https://nakamura196.github.io/iiif0/files/tile/tahara/full/full/0/default.jpg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://nakamura196.github.io/iiif0/files/tile/template",
+                  "@id": "https://nakamura196.github.io/iiif0/files/tile/tahara",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 }
               }
             }
-          ]
+          ],
+          "thumbnail": {
+            "@id": "https://nakamura196.github.io/iiif0/files/tile/tahara/full/148,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 148,
+            "height": 6
+          }
         }
       ]
     }
