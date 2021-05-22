@@ -13,7 +13,7 @@ import yaml
 
 prefix = "http://nakamura196.github.io/iiif0"
 
-dir = "/Users/nakamurasatoru/git/d_dzi/a"
+dir = "/Users/nakamurasatoru/git/d_dzi/iiif0"
 
 # dir = "../docs/files/original"
 
@@ -33,7 +33,9 @@ for i in range(len(files)):
     tmp = os.path.split(opath)
     odir = tmp[0]
 
-    info_path = opath.replace(".jpg", "/info.json")
+    root, ext = os.path.splitext(opath)
+
+    info_path = opath.replace(ext, "/info.json")
 
     if not os.path.exists(info_path):
         print(info_path)
@@ -48,7 +50,7 @@ for i in range(len(files)):
 
         p = odir.replace(dir+"/docs", prefix)
 
-        line = "python iiif_static/iiif_static.py  -d "+odir+" -t 256  -p "+p+" "+file
+        line = "python iiif_static/iiif_static.py  -d "+odir+" -t 512  -p "+p+" "+file
         writer.writerow([line])
     
 
