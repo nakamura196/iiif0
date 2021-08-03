@@ -1,0 +1,55 @@
+{
+  "label": "倭寇図巻",
+  "@id": "https://nakamura196.github.io/iiif0/iiif/wakozukan.json",
+  "@type": "sc:Manifest",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "metadata": [],
+  "within": "",
+  "logo": "",
+  "description": "",
+  "viewingHint": "",
+  "viewingDirection": "",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "@id": "https://nakamura196.github.io/iiif0/iiif/wakozukan/sequence/normal",
+      "canvases": [
+        {
+          "label": "[1]",
+          "width": 90916,
+          "height": 6615,
+          "@type": "sc:Canvas",
+          "@id": "https://nakamura196.github.io/iiif0/iiif/wakozukan/canvas/p1",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "on": "https://nakamura196.github.io/iiif0/iiif/wakozukan/canvas/p1",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 90916,
+                "height": 6615,
+                "@id": "https://nakamura196.github.io/iiif0/files/tile/wakozukan/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://nakamura196.github.io/iiif0/files/tile/wakozukan",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                }
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://nakamura196.github.io/iiif0/files/tile/wakozukan/full/164,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 164,
+            "height": 12
+          }
+        }
+      ]
+    }
+  ]
+}
