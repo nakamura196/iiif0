@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://nakamura196.github.io/iiif0/files/tile/jyorin/img3_6_35",
+  "height": 453,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 7,
+      "width": 241
+    },
+    {
+      "height": 4,
+      "width": 121
+    },
+    {
+      "height": 2,
+      "width": 60
+    },
+    {
+      "height": 1,
+      "width": 30
+    }
+  ],
+  "tiles": [
+    {
+      "height": 256,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 15432
+}
