@@ -22,12 +22,15 @@ f = open('tmp/convert.sh', 'w')
 writer = csv.writer(f, lineterminator='\n')
 
 
-files = glob.glob(dir+'/docs/files/original/*', recursive=True)
+files = glob.glob(dir+'/docs/files/original/**/*', recursive=True)
 
 
 for i in range(len(files)):
 
     file = files[i]
+
+    if not os.path.isfile(file):
+        continue
 
     opath = file.replace("/original/", "/tile/")
     tmp = os.path.split(opath)
@@ -50,7 +53,7 @@ for i in range(len(files)):
 
         p = odir.replace(dir+"/docs", prefix)
 
-        line = "python iiif_static/iiif_static.py  -d "+odir+" -t 1024  -p "+p+" "+file
+        line = "python iiif_static/iiif_static.py  -d "+odir+" -t 256  -p "+p+" "+file
         writer.writerow([line])
     
 
