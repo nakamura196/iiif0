@@ -50,7 +50,7 @@ for i in range(len(files)):
 
         p = odir.replace(dir+"/docs", prefix)
 
-        line = "python iiif_static/iiif_static.py  -d "+odir+" -t 256  -p "+p+" "+file
+        line = "python iiif_static/iiif_static.py  -d "+odir+" -t 1024  -p "+p+" "+file
         writer.writerow([line])
     
 
