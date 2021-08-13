@@ -17,6 +17,7 @@ dir = "/Users/nakamurasatoru/git/d_dzi/iiif0"
 
 # dir = "../docs/files/original"
 
+tile = "512"
 
 f = open('tmp/convert.sh', 'w')
 writer = csv.writer(f, lineterminator='\n')
@@ -53,7 +54,7 @@ for i in range(len(files)):
 
         p = odir.replace(dir+"/docs", prefix)
 
-        line = "python iiif_static/iiif_static.py  -d "+odir+" -t 256  -p "+p+" "+file
+        line = "python iiif_static/iiif_static.py  -d "+odir+" -t "+str(tile)+"  -p "+p+" "+file
         writer.writerow([line])
     
 
