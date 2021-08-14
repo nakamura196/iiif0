@@ -11,11 +11,12 @@ import glob
 
 import yaml
 
-id = "jyorin"
-label = "上林図"
+dir = "chukaizuhen/"
+id = "4256313"
+label = "籌海図編１９"
 vhint = "right-to-left"
 
-files = glob.glob("../docs/files/tile/{}/**/info.json".format(id), recursive=True)
+files = glob.glob("../docs/files/tile/{}{}/**/info.json".format(dir, id), recursive=True)
 
 files = sorted(files)
 
@@ -94,5 +95,9 @@ manifest = {
   ]
 }
 
-fw = open("../docs/iiif/{}.json".format(id), 'w')
+path = "../docs/iiif/{}{}.json".format(dir, id)
+
+os.makedirs(os.path.dirname(path), exist_ok=True)
+
+fw = open(path, 'w')
 json.dump(manifest, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))

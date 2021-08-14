@@ -1,0 +1,1276 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312.json",
+    "@type": "sc:Manifest",
+    "description": "",
+    "label": "籌海図編１８",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "logo": "",
+    "metadata": [],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p1",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-01/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-01",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-01/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p2",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-02/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-02",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-02/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p3",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-03/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-03",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-03/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p4",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-04/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-04",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-04/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p5",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-05/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-05",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-05/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p6",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-06/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-06",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-06/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p7",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-07/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-07",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-07/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p8",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-08/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-08",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-08/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p9",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-09/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-09",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-09/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p10",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-10/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-10",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-10/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p11",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-11/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-11",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-11/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p12",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-12/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-12",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-12/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p13",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-13/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-13",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-13/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p14",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-14/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-14",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-14/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p15",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-15/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-15",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-15/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p16",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-16/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-16",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-16/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p17",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-17/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-17",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-17/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p18",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-18/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-18",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-18/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p19",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-19/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-19",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-19/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p20",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-20/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-20",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-20/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p21",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-21/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-21",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-21/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p22",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-22/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-22",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[22]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-22/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p23",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-23/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-23",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[23]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-23/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p24",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-24/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-24",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[24]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-24/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p25",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-25/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-25",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[25]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-25/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p26",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-26/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-26",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[26]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-26/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p27",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-27/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-27",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[27]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-27/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p28",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-28/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-28",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[28]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-28/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p29",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-29/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-29",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[29]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-29/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p30",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-30/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-30",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[30]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-30/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p31",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-31/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-31",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[31]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-31/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p32",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-32/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-32",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[32]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-32/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p33",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-33/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-33",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[33]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-33/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p34",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-34/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-34",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[34]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-34/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p35",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-35/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-35",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[35]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-35/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p36",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-36/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-36",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[36]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-36/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p37",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-37/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-37",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[37]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-37/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "height": 4350,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p38",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-38/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4350,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-38",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 6300
+                            }
+                        }
+                    ],
+                    "label": "[38]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/chukaizuhen/4256312/4256312-38/full/394,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 272,
+                        "width": 394
+                    },
+                    "width": 6300
+                }
+            ],
+            "label": "Current Page Order"
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "viewingHint": "",
+    "within": ""
+}
