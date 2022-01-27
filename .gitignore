@@ -1,2 +1,4 @@
 .DS_Store
 docs/files/original
+.ipynb_checkpoints
+__pycache__

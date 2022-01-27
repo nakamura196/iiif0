@@ -1,0 +1,59 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://nakamura196.github.io/iiif0/files/tile/kouwazukan",
+  "height": 3798,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 30,
+      "width": 462
+    },
+    {
+      "height": 15,
+      "width": 231
+    },
+    {
+      "height": 7,
+      "width": 115
+    },
+    {
+      "height": 4,
+      "width": 58
+    },
+    {
+      "height": 2,
+      "width": 29
+    },
+    {
+      "height": 1,
+      "width": 14
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32,
+        64
+      ],
+      "width": 512
+    }
+  ],
+  "width": 59079
+}
